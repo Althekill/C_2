@@ -1,0 +1,7 @@
+Manual de usuario
+Usted ha entrado a la opción de manual de usuario, la cual ha sido creada con la finalidad de orientar al usuario en este pograma.
+Como primer paso usted verá una interfaz de 6 opciones, las cuales esta predispuestas verticalmente una tras otra.
+La primer opción, es decir, si elige el número 1, usted podra hacer una encuesta en la cual se le irá preguntando si padece o no el factor a analizar en ese momento,
+consecutivamente al finalizar se hará un conteo de las coincidencias que ha obtenido.
+La segunda opción será complementada entre más usuarios vayan entrando al programa y calculará la probabilidad relativa que tendra en caso de padecer algunos tipos de factores en 
+especifico y sus resultados serán comparadods con las de mas personas.
